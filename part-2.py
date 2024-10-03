@@ -15,3 +15,5 @@ char = input("Please type in a word: ")
 if len(char) > 1:
     print(f"There are {len(char)} letters in the word {char}")
 print("Thank you!")
+
+#use typecasting function to get the decimal part of a floating number
