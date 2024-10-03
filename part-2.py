@@ -17,3 +17,7 @@ if len(char) > 1:
 print("Thank you!")
 
 #use typecasting function to get the decimal part of a floating number
+# Write your solution here
+num = float(input("Please type in a number: "))
+print(f"Integer part:{int(num)}")
+print(f"Decimal part: {num - int(num)}")
