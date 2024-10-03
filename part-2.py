@@ -9,3 +9,4 @@ if number > 100:
 print(number, " must be my lucky number!")
 print("Have a nice day!")
 
+#Find the number of characters in a string and return only the one greater than 1 character length
