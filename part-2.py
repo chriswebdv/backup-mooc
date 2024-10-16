@@ -48,3 +48,10 @@ else:
     print("You're not a nephew of any character I know of.")
 
 # first while loop tp test if it works
+# Write your solution here
+while True:
+    print("hi")
+    str = input("Shall we continue? ")
+    if str == "no":
+        break
+print("okay then")
