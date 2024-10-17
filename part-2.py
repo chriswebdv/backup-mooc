@@ -67,3 +67,5 @@ elif num % 3 == 0:
     print("Fizz")
 elif num % 5 == 0:
     print("Buzz")
+
+# Validate the input of the user by creating a while loop
