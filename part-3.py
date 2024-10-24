@@ -5,4 +5,4 @@ while num >= 2 and num <= 30:
     if num % 2 == 0:
         print(num)
         num += 2
-
+#number limit using a while loop
